@@ -29,3 +29,7 @@ mat.task('online', function () {
   ]))
 })
 ```
+
+```sh
+mat online
+```
